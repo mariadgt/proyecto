@@ -21,3 +21,6 @@
   * Botella de 3L.
   * Cuenco para comida.
   * Pegamento/cinta aislante.
+
+#### Planificación.
+> Más adelante iré informando.
